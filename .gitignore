@@ -1,0 +1,5 @@
+.pants.d
+.pids
+.pytest_cache
+__pytest_cache__
+venv
